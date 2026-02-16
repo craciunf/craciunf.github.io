@@ -21,4 +21,4 @@ Type Systems
 
 ## Biography
 
-[CV] (/assets/FlorinCraciun-Europass CV-February2026.pdf)
+[CV] (/assets/files/CV.pdf)
