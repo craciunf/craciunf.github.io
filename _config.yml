@@ -10,8 +10,9 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  style: ieee
+  style: plain
   source: ./_bibliography
   bibliography: papers.bib
   sort_by: year
   order: descending
+
