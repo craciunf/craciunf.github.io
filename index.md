@@ -21,4 +21,4 @@ Type Systems
 
 ## Biography
 
-[CV] (assets/files/CV.pdf)
+[CV](assets/files/CV.pdf)
