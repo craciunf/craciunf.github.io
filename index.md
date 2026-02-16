@@ -7,7 +7,7 @@ title: Home
 
 Email: mihai.craciun@ubbcluj.ro  
 [Google Scholar](https://scholar.google.ro/citations?user=iDZ6YXsAAAAJ&hl=en)  
-[GitHub](https://github.com/craciunf)
+
 
 ---
 
