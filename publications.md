@@ -4,14 +4,17 @@ title: Publications
 ---
 
 ## Journal Articles
+
 {% bibliography --query @article %}
 
 ---
 
 ## Conference Papers
-{% bibliography --query @inproceedings[!keywords~=workshop] %}
+
+{% bibliography --query @inproceedings %}
 
 ---
 
 ## Workshop Papers
-{% bibliography --query keywords~=workshop %}
+
+{% bibliography --query @proceedings %}
