@@ -1,8 +1,12 @@
----
-layout: default
-title: Publications
+## Journal Articles
+{% bibliography --query @article %}
+
 ---
 
-## Publications
+## Conference Papers
+{% bibliography --query @inproceedings[!keywords~=workshop] %}
 
-{% bibliography %}
+---
+
+## Workshop Papers
+{% bibliography --query keywords~=workshop %}
