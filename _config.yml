@@ -1,0 +1,17 @@
+title: "Associate Progessor Florin Craciun"
+email: "mihai.craciun@ubbcluj.ro"
+description: "Associate Professor of Computer Science"
+baseurl: ""
+url: "https://craciunf.github.io"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-scholar
+
+scholar:
+  style: ieee
+  source: ./_bibliography
+  bibliography: papers.bib
+  sort_by: year
+  order: descending
