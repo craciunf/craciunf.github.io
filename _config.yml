@@ -10,7 +10,7 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  style: plain
+  style: apa
   source: ./_bibliography
   bibliography: papers.bib
   sort_by: year
