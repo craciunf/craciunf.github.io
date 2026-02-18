@@ -19,8 +19,4 @@ title: Publications
 
 {% bibliography --query @inproceedings %}
 
----
 
-## Workshop Papers
-
-{% bibliography --query @proceedings %}
