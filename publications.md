@@ -9,6 +9,12 @@ title: Publications
 
 ---
 
+## Proceedings
+
+{% bibliography --query @proceedings %}
+
+---
+
 ## Conference Papers
 
 {% bibliography --query @inproceedings %}
